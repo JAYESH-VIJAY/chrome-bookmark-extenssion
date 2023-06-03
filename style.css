@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+width: 100%;
+/* border-color: grey; */
+padding: 10px;
+font-size: 15px;
+font-weight: bold;
+color:rgb(15, 82, 107);
+box-sizing: border-box;
+border:1px solid rgb(12, 175, 235);
+border-radius:4px;
+min-width:400px;
+
+}
+
+button{
+    margin-top:4px;
+    width:150px;
+    text-transform: uppercase;
+    background-color: rgb(12, 175, 235);
+    border-style:none;
+    border-radius:4px;
+    font-size: 14px;
+    color:white;
+    font-weight:800;
+}
+ul{
+    font-size: 15px;
+    /* font-weight: bold; */
+    margin-left:-30px;
+}
+ul li{
+   color:rgb(15, 82, 107);
+   padding-top:3px;
+   padding-bottom:3px;
+   list-style: none;
+}
+li a{
+    color:rgb(15, 82, 107);
+}
